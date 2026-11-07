@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "contractVersion": 1,
+  "generatedAt": "2026-11-07T00:00:00Z",
+  "modules": [
+    {
+      "id": "mangatime-v1",
+      "familyID": "mangatime-v1",
+      "slug": "mangatime",
+      "name": "Mangatime",
+      "version": "0.1.0",
+      "contractVersion": 1,
+      "contentType": "pageImages",
+      "language": "ar",
+      "rating": "safe",
+      "releaseTrack": "candidate",
+      "status": "active",
+      "baseURL": "https://mangatime.org",
+      "universalLink": "https://mangatime.org/",
+      "allowedHosts": [
+        "mangatime.org"
+      ],
+      "capabilities": [
+        "discovery",
+        "search",
+        "details",
+        "chapters",
+        "images"
+      ],
+      "manifestPath": "modules/mangatime/manifest.json",
+      "entry": {
+        "path": "modules/mangatime/index.js",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      "icon": {
+        "path": "modules/mangatime/icon.png",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      "aliases": [],
+      "legacyIDs": []
+    }
+  ]
+}
