@@ -1,0 +1,52 @@
+{
+  "allowedHosts": [
+    "mangatime.org",
+    "*.mangatime.org"
+  ],
+  "attribution": {
+    "author": "sofiamofid0-alt",
+    "authorizationURL": null,
+    "licenseName": null,
+    "licenseURL": null,
+    "website": "https://mangatime.org"
+  },
+  "baseURL": "https://mangatime.org",
+  "capabilities": [
+    "popular",
+    "latest",
+    "search",
+    "details",
+    "chapters",
+    "images",
+    "imageRequest",
+    "discovery"
+  ],
+  "contentRating": "safe",
+  "contentType": "pageImages",
+  "contractVersion": 1,
+  "entry": {
+    "path": "modules/mangatime/index.js",
+    "sha256": "84cf3f1a13e358881ebc1edddcdabd54612674c94cf81509af282f67c6326d07"
+  },
+  "familyID": "mangatime-v1",
+  "icon": {
+    "path": "modules/mangatime/icon.png",
+    "sha256": "b1fc0249caf13b4e5e7ca12beb9e8e32e5927d5d5b32d68c8b051b381af9c82d"
+  },
+  "id": "mangatime-v1",
+  "language": "en",
+  "legacyIDs": [],
+  "limits": {
+    "cacheTTLSeconds": 900,
+    "maxConcurrentRequests": 2,
+    "maxResponseBytes": 8388608,
+    "maxScriptBytes": 262144,
+    "timeoutMilliseconds": 25000
+  },
+  "minimumAppVersion": "1.0.0",
+  "name": "Mangatime",
+  "releaseTrack": "beta",
+  "status": "active",
+  "universalLink": "https://mangatime.org/",
+  "version": "0.1.0"
+}
