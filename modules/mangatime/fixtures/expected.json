@@ -1,0 +1,81 @@
+{
+  "discoveryHome": {
+    "sections": [
+      {
+        "id": "featured",
+        "title": "Featured Series",
+        "items": [
+          {
+            "itemID": "/manga/chrono-compass",
+            "title": "Chrono Compass",
+            "href": "https://mangatime.org/manga/chrono-compass",
+            "cover": "https://mangatime.org/covers/chrono-compass.jpg"
+          }
+        ],
+        "hasMore": false
+      }
+    ]
+  },
+  "searchResults": {
+    "query": "compass",
+    "page": 1,
+    "items": [
+      {
+        "itemID": "/manga/chrono-compass",
+        "title": "Chrono Compass",
+        "href": "https://mangatime.org/manga/chrono-compass",
+        "cover": "https://mangatime.org/covers/chrono-compass.jpg"
+      }
+    ],
+    "hasMore": true
+  },
+  "extractDetails": {
+    "itemID": "/manga/chrono-compass",
+    "title": "Chrono Compass",
+    "href": "https://mangatime.org/manga/chrono-compass",
+    "cover": "https://mangatime.org/covers/chrono-compass.jpg",
+    "description": "A cartographer maps shifting islands using an ancient brass compass.",
+    "author": "A. Cartographer",
+    "status": "ongoing",
+    "tags": ["Adventure", "Fantasy"]
+  },
+  "extractChapters": [
+    {
+      "chapterID": "/manga/chrono-compass/chapter-1",
+      "itemID": "/manga/chrono-compass",
+      "title": "Chapter 1: Departure",
+      "number": 1,
+      "href": "https://mangatime.org/manga/chrono-compass/chapter-1"
+    },
+    {
+      "chapterID": "/manga/chrono-compass/chapter-2",
+      "itemID": "/manga/chrono-compass",
+      "title": "Chapter 2: The High Tide",
+      "number": 2,
+      "href": "https://mangatime.org/manga/chrono-compass/chapter-2"
+    }
+  ],
+  "extractImages": {
+    "chapterID": "/manga/chrono-compass/chapter-1",
+    "pages": [
+      {
+        "index": 0,
+        "url": "https://mangatime.org/pages/chrono-compass/ch1/001.jpg",
+        "headers": {
+          "Referer": "https://mangatime.org/manga/chrono-compass/chapter-1"
+        }
+      },
+      {
+        "index": 1,
+        "url": "https://mangatime.org/pages/chrono-compass/ch1/002.jpg",
+        "headers": {
+          "Referer": "https://mangatime.org/manga/chrono-compass/chapter-1"
+        }
+      }
+    ]
+  },
+  "errors": {
+    "challengePage": "CHALLENGE_BLOCKED",
+    "adultDetailsPage": "POLICY_REJECTED"
+  }
+}
