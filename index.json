@@ -1,0 +1,23 @@
+{
+  "contractVersion": 1,
+  "generatedAt": "2026-11-07T00:00:00Z",
+  "modules": [
+    {
+      "id": "mangatime-v1",
+      "familyID": "mangatime-v1",
+      "slug": "mangatime",
+      "name": "Mangatime",
+      "version": "0.1.0",
+      "contentType": "pageImages",
+      "language": "en",
+      "rating": "safe",
+      "releaseTrack": "candidate",
+      "baseURL": "https://mangatime.org",
+      "manifestPath": "modules/mangatime/manifest.json",
+      "entryPath": "modules/mangatime/index.js",
+      "iconPath": "modules/mangatime/icon.png",
+      "aliases": [],
+      "legacyIDs": []
+    }
+  ]
+}
