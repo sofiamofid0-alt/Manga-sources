@@ -1,0 +1,33 @@
+{
+  "generatedAt": "2026-11-07T00:00:00Z",
+  "modules": [
+    {
+      "id": "mangatime-v1",
+      "familyID": "mangatime-v1",
+      "name": "Mangatime",
+      "version": "0.1.0",
+      "language": "en",
+      "contentType": "pageImages",
+      "contentRating": "safe",
+      "releaseTrack": "beta",
+      "status": "active",
+      "sortPriority": 1,
+      "manifest": {
+        "path": "modules/mangatime/manifest.json",
+        "sha256": "03778a66d369330289478dc19c4e11e2aaed9a2ef9645bc5a05cdad2ba667742"
+      },
+      "icon": {
+        "path": "modules/mangatime/icon.png",
+        "sha256": "b8feb015e571f0919f63f1fd2ea065ad337d98b045eeb9157a32bc7ceb995dcc"
+      }
+    }
+  ],
+  "repository": {
+    "homepage": "https://github.com/sofiamofid0-alt/Manga-sources",
+    "id": "sofiamofid0.sources",
+    "name": "Manga Sources",
+    "owner": "sofiamofid0-alt",
+    "universalLink": "https://github.com/sofiamofid0-alt/Manga-sources"
+  },
+  "schemaVersion": 1
+}
